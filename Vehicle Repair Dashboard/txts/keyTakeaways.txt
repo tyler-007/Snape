@@ -1,0 +1,27 @@
+Model            Service_type_classified
+Xpres-T Electra  Air Conditioner Issue      241
+                 car issue                  169
+                 L Mode                     130
+                 Noise                      128
+                 Charging                    77
+                 Periodic Service            24
+                 Underbody                   19
+                 Overheating Issue            4
+                 Free Service                 2
+Xpres-T Ziptron  Air Conditioner Issue      494
+                 car issue                  212
+                 Overheating Issue          143
+                 Free Service               138
+                 Periodic Service           131
+                 Noise                      125
+                 L Mode                      86
+                 Charging                    52
+                 Underbody                    1
+eC3              Free Service                73
+                 Air Conditioner Issue       27
+                 Periodic Service            25
+                 car issue                   19
+                 L Mode                       7
+                 Noise                        5
+                 Charging                     1
+Name: count, dtype: int64

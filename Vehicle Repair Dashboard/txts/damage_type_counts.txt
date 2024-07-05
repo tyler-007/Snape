@@ -1,0 +1,136 @@
+Damage Type
+Side Mirror 1 piece                                                                       606
+No-Driver Fault- Miscellaneous Damages                                                    527
+Major Accident with spot survey and spot photos                                           151
+Tail Light 1 Piece                                                                        115
+Major Accident without spot survey and spot photos                                        110
+Headlight 1 Piece                                                                          94
+Panel 1 Piece                                                                              91
+1 Bumper                                                                                   77
+Dicky Lock Damage                                                                          74
+Panel 2 Piece                                                                              45
+Driver Fault- Miscellaneous Damages                                                        42
+Tyre Damage                                                                                37
+1 Panel 1 Bumper                                                                           33
+Refresh look                                                                               30
+1 Headlight with Bumper                                                                    29
+Horn Not Working                                                                           27
+Headlight Blub issue                                                                       23
+Auxiliary battery                                                                          23
+Tail Light 2 Piece                                                                         14
+Headlight 1 Piece,Panel 1 Piece                                                            13
+Front Windshield Damage                                                                    10
+Number plate Missing                                                                       10
+Panel 3 Piece                                                                              10
+Side Mirror 2 piece                                                                        10
+2 Panel 1 Bumper                                                                            8
+Suspension Damage                                                                           8
+Side Mirror 1 piece,Panel 1 Piece                                                           7
+Wiper Bled                                                                                  7
+-__-                                                                                        6
+1 Headlight with Bumper,Panel 1 Piece                                                       5
+Window Glass Damage                                                                         5
+1 Tail Light with Bumper                                                                    5
+Dicky Lock Damage,No-Driver Fault- Miscellaneous Damages                                    4
+Tail Light 1 Piece,Panel 1 Piece                                                            4
+Panel 2 Piece,Side Mirror 1 piece                                                           4
+Door Lock not Working                                                                       4
+-_______-S                                                                                  4
+1 Bumper,Panel 2 Piece                                                                      3
+Under Body Damage                                                                           3
+1 Bumper,Panel 1 Piece                                                                      3
+Tail Light 1 Piece,Panel 2 Piece                                                            3
+Headlight 1 Piece,1 Bumper                                                                  3
+1 Bumper,Side Mirror 1 piece                                                                3
+Side Mirror 1 piece,Panel 2 Piece                                                           3
+Panel 1 Piece,Side Mirror 1 piece                                                           2
+Mobile Charger Not Working                                                                  2
+Major Accident with spot survey and spot photos,-__-                                        2
+under body noise                                                                            2
+Water Likage from Ac Pipe                                                                   2
+Headlight Upper beam/ Low beam issue                                                        2
+Headlight 1 Piece,Panel 2 Piece                                                             2
+Glove Box Lock Damage                                                                       2
+Panel 2 Piece,Driver Fault- Miscellaneous Damages                                           2
+Side Mirror 1 piece,Tail Light 1 Piece                                                      2
+Side Mirror 1 piece,Driver Fault- Miscellaneous Damages                                     2
+Headlight 2 Piece,Side Mirror 1 piece                                                       2
+-_______-R,-_______-S                                                                       2
+Headlight 1 Piece,Side Mirror 1 piece                                                       2
+Side Mirror 1 piece,2 Panel 1 Bumper                                                        1
+Tail Light 1 Piece,Window Glass Damage                                                      1
+Front Windshield Damage,Panel 1 Piece                                                       1
+Tail Light 1 Piece,Panel 1 Piece,1 Bumper,Side Mirror 1 piece                               1
+Side Mirror 1 piece,Window Glass Damage                                                     1
+Major Accident with spot survey and spot photos,No-Driver Fault- Miscellaneous Damages      1
+1 Panel 1 Bumper,1 Bumper                                                                   1
+Side Mirror 1 piece,1 Panel 1 Bumper                                                        1
+Panel 2 Piece,No-Driver Fault- Miscellaneous Damages                                        1
+Wiper Bled ,Hand Break issue                                                                1
+Tail Light 3 Piece                                                                          1
+Headlight 1 Piece,1 Bumper,Side Mirror 1 piece                                              1
+2 Panel 1 Bumper,1 Tail Light with Bumper                                                   1
+Tail Light 2 Piece,Panel 1 Piece                                                            1
+Tail Light 1 Piece,Dicky Lock Damage                                                        1
+Window Glass Damage,Side Mirror 1 piece                                                     1
+Dicky Lock Damage,Side Mirror 1 piece                                                       1
+Side Mirror 1 piece,Door Lock not Working                                                   1
+Tail Light 2 Piece,1 Panel 1 Bumper                                                         1
+No-Driver Fault- Miscellaneous Damages,1 Bumper                                             1
+Headlight 2 Piece,1 Bumper,Major Accident with spot survey and spot photos                  1
+Panel 1 Piece,Tail Light 1 Piece                                                            1
+Coolant to up                                                                               1
+Tail Light 1 Piece,1 Bumper                                                                 1
+Rim Damage                                                                                  1
+1 Bumper,2 Panel 1 Bumper                                                                   1
+Tail Light 1 Piece,1 Bumper,Panel 1 Piece                                                   1
+Panel 1 Piece,Side Mirror 1 piece,Driver Fault- Miscellaneous Damages                       1
+Side Mirror 1 piece,No-Driver Fault- Miscellaneous Damages                                  1
+Panel 3 Piece,1 Bumper                                                                      1
+Dicky Lock Damage,Wiper Bled                                                                1
+Headlight 1 Piece,Driver Fault- Miscellaneous Damages,Side Mirror 1 piece                   1
+Major Accident with spot survey and spot photos,Headlight 1 Piece                           1
+Headlight 1 Piece,2 Panel 1 Bumper                                                          1
+Tail Light 2 Piece,Panel 2 Piece                                                            1
+Tail Light 2 Piece,1 Bumper                                                                 1
+Headlight 2 Piece,Front Windshield Damage,Panel 3 Piece                                     1
+Headlight 1 Piece,Tail Light 1 Piece,Panel 1 Piece                                          1
+Driver Fault- Miscellaneous Damages,Panel 2 Piece                                           1
+1 Headlight with Bumper,Side Mirror 1 piece                                                 1
+No-Driver Fault- Miscellaneous Damages,Panel 3 Piece                                        1
+No-Driver Fault- Miscellaneous Damages,Side Mirror 1 piece                                  1
+Panel 3 Piece,Panel 1 Piece                                                                 1
+Panel 1 Piece,-_______-S                                                                    1
+Headlight 1 Piece,Panel 1 Piece,Refresh look                                                1
+1 Bumper,1 Panel 1 Bumper                                                                   1
+Panel 1 Piece,1 Bumper                                                                      1
+Headlight 1 Piece,Tail Light 2 Piece                                                        1
+Side Mirror 1 piece,1 Bumper                                                                1
+Panel 1 Piece,Headlight 1 Piece,Tail Light 1 Piece                                          1
+Tail Light 1 Piece,1 Panel 1 Bumper                                                         1
+Headlight 1 Piece,Side Mirror 1 piece,1 Bumper                                              1
+Panel 1 Piece,Headlight 1 Piece                                                             1
+Tail Light 4 Piece                                                                          1
+Headlight 1 Piece,Tail Light 1 Piece                                                        1
+Rear Windshield Damage                                                                      1
+1 Tail Light with Bumper,1 Bumper                                                           1
+Panel 1 Piece,Driver Fault- Miscellaneous Damages                                           1
+No-Driver Fault- Miscellaneous Damages,Dicky Lock Damage                                    1
+Major Accident with spot survey and spot photos,1 Bumper                                    1
+Panel 1 Piece,1 Tail Light with Bumper                                                      1
+1 Bumper,-_______-S                                                                         1
+1 Bumper,Dicky Lock Damage                                                                  1
+No-Driver Fault- Miscellaneous Damages,-_______-S                                           1
+Headlight 2 Piece                                                                           1
+1 Tail Light with Bumper,Panel 1 Piece                                                      1
+1 Bumper,Headlight 1 Piece,Panel 1 Piece                                                    1
+-_______-R,Dicky Lock Damage,1 Bumper                                                       1
+1 Bumper,Headlight 1 Piece                                                                  1
+Tail Light 1 Piece,1 Headlight with Bumper,Panel 2 Piece                                    1
+Headlight 1 Piece,1 Panel 1 Bumper                                                          1
+Tail Light 1 Piece,Side Mirror 1 piece                                                      1
+1 Panel 1 Bumper,Dicky Lock Damage                                                          1
+Panel 1 Piece,Dicky Lock Damage                                                             1
+Panel 2 Piece,Headlight 1 Piece                                                             1
+-_______-R                                                                                  1
+Headlight 1 Piece,Side Mirror 1 piece,Panel 1 Piece                                         1

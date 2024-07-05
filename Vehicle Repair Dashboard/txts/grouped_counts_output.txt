@@ -1,0 +1,63 @@
+Vehicle Hub  Repair Vendors          
+Axis         Speedy Autocare             110
+             Automovill                  101
+             Go Mechanic                  17
+             Swift Wench Car Service      12
+             My Carz Studio               11
+             Dulichand                     1
+             TC Motors Foreshore Road      1
+EVRE         Automovill                  127
+             Speedy Autocare             114
+             Swift Wench Car Service      43
+             TC Motors Foreshore Road      9
+             My Carz Studio                8
+             Go Mechanic                   7
+             Rangeview Motors              6
+             Kolkata Ais Windshield        1
+HIDCO        Automovill                  190
+             Speedy Autocare             162
+             Swift Wench Car Service      26
+             My Carz Studio               25
+             Go Mechanic                   5
+             TC Motors Foreshore Road      5
+             Kolkata Ais Windshield        4
+             Dulichand                     1
+             Am Motors                     1
+Hyatt        Automovill                   11
+             Speedy Autocare               5
+             My Carz Studio                4
+Khiderpore   Speedy Autocare              61
+             Automovill                   57
+             Swift Wench Car Service      14
+             TC Motors Foreshore Road      8
+             Go Mechanic                   3
+             Dulichand                     2
+             My Carz Studio                1
+NDITA        Automovill                  231
+             Speedy Autocare             156
+             Swift Wench Car Service      25
+             My Carz Studio               24
+             Go Mechanic                  17
+             TC Motors Foreshore Road      8
+             Celica Motorcorp              3
+             KB MOTORS                     1
+             TC motor Rajarhat             1
+             Am Motors                     1
+             Kolkata Ais Windshield        1
+O2           Speedy Autocare             309
+             Automovill                  128
+             My Carz Studio               26
+             Swift Wench Car Service       9
+             TC Motors Foreshore Road      7
+             Celica Motorcorp              5
+             Go Mechanic                   3
+             Kolkata Ais Windshield        2
+             Dulichand                     1
+Rishi Tower  Speedy Autocare              35
+             Automovill                   27
+             Swift Wench Car Service       5
+             Go Mechanic                   3
+             My Carz Studio                1
+Somponno     Swift Wench Car Service       5
+             Celica Motorcorp              2
+             Speedy Autocare               1

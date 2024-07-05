@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7b06397dd1b61a4bc41328ecc7d55246 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_7b06397dd1b61a4bc41328ecc7d55246" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7b06397dd1b61a4bc41328ecc7d55246 = L.map(
+                "map_7b06397dd1b61a4bc41328ecc7d55246",
+                {
+                    center: [22.593080199999996, 88.3959076],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2e627d79d246b3c7304491cb51efe16a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_2e627d79d246b3c7304491cb51efe16a.addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+            var circle_marker_b936a67edf608676494a5426abe8e7f9 = L.circleMarker(
+                [22.610619, 88.409662],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 31.622776601683796, "stroke": true, "weight": 3}
+            ).addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+        var popup_7cec83d9f4175f6dc051c19d180f7d6b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7f9d58496a566cdcb3bcb196277e62be = $(`<div id="html_7f9d58496a566cdcb3bcb196277e62be" style="width: 100.0%; height: 100.0%;">Dakshindari: Predictions - 10</div>`)[0];
+                popup_7cec83d9f4175f6dc051c19d180f7d6b.setContent(html_7f9d58496a566cdcb3bcb196277e62be);
+            
+        
+
+        circle_marker_b936a67edf608676494a5426abe8e7f9.bindPopup(popup_7cec83d9f4175f6dc051c19d180f7d6b)
+        ;
+
+        
+    
+    
+            var circle_marker_31d8d7291b4800d75565e17fe3a0e314 = L.circleMarker(
+                [22.576222, 88.435053],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 44.721359549995796, "stroke": true, "weight": 3}
+            ).addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+        var popup_6050769f81d702ad6eedfcbf69776c0d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_46b79a7f49224870abc8f0a3f647a54a = $(`<div id="html_46b79a7f49224870abc8f0a3f647a54a" style="width: 100.0%; height: 100.0%;">Sector 5: Predictions - 20</div>`)[0];
+                popup_6050769f81d702ad6eedfcbf69776c0d.setContent(html_46b79a7f49224870abc8f0a3f647a54a);
+            
+        
+
+        circle_marker_31d8d7291b4800d75565e17fe3a0e314.bindPopup(popup_6050769f81d702ad6eedfcbf69776c0d)
+        ;
+
+        
+    
+    
+            var circle_marker_94f6d80222a222ca32aa137c2726052e = L.circleMarker(
+                [22.552652, 88.352503],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 54.772255750516614, "stroke": true, "weight": 3}
+            ).addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+        var popup_df0c9ceba03ac9e94f291fb17988ebac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f95e2d598acc25541e54835edeccd241 = $(`<div id="html_f95e2d598acc25541e54835edeccd241" style="width: 100.0%; height: 100.0%;">Victoria Memorial: Predictions - 30</div>`)[0];
+                popup_df0c9ceba03ac9e94f291fb17988ebac.setContent(html_f95e2d598acc25541e54835edeccd241);
+            
+        
+
+        circle_marker_94f6d80222a222ca32aa137c2726052e.bindPopup(popup_df0c9ceba03ac9e94f291fb17988ebac)
+        ;
+
+        
+    
+    
+            var circle_marker_40ee86969ed1e6ebba6f63fdeb3540ec = L.circleMarker(
+                [22.583474, 88.342969],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 63.24555320336759, "stroke": true, "weight": 3}
+            ).addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+        var popup_f63cdeb8127bb6783de7d303e1c01a7d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0d35bf81f2c21c8b7a758239f2abab5f = $(`<div id="html_0d35bf81f2c21c8b7a758239f2abab5f" style="width: 100.0%; height: 100.0%;">Howrah: Predictions - 40</div>`)[0];
+                popup_f63cdeb8127bb6783de7d303e1c01a7d.setContent(html_0d35bf81f2c21c8b7a758239f2abab5f);
+            
+        
+
+        circle_marker_40ee86969ed1e6ebba6f63fdeb3540ec.bindPopup(popup_f63cdeb8127bb6783de7d303e1c01a7d)
+        ;
+
+        
+    
+    
+            var circle_marker_adc6645a3b237521b9412a1e272685b7 = L.circleMarker(
+                [22.642434, 88.439351],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 70.71067811865476, "stroke": true, "weight": 3}
+            ).addTo(map_7b06397dd1b61a4bc41328ecc7d55246);
+        
+    
+        var popup_ec4608cae3ed7c60b9b483139182e9a6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4851d7672448a4e72ea7a64febd22e5f = $(`<div id="html_4851d7672448a4e72ea7a64febd22e5f" style="width: 100.0%; height: 100.0%;">Airport: Predictions - 50</div>`)[0];
+                popup_ec4608cae3ed7c60b9b483139182e9a6.setContent(html_4851d7672448a4e72ea7a64febd22e5f);
+            
+        
+
+        circle_marker_adc6645a3b237521b9412a1e272685b7.bindPopup(popup_ec4608cae3ed7c60b9b483139182e9a6)
+        ;
+
+        
+    
+</script>
+</html>

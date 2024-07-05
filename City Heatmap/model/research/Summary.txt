@@ -1,0 +1,53 @@
+---------------Model.ipynb------------------
+a. Plot of completed ride
+
+--------------------Model2.ipynb------------------
+a. Plot of User rides (Per user)
+
+-----------------------Heatmap and Model.ipynb-----------------
+
+a. 15 Minute window count
+b. completed/incompleted stats
+c. Overall demand plot
+c. 1. Overall ride Completion based on zones.
+d. Aerial distances  - { zoological_garden = (22.536956, 88.321473)
+dakshindari= (22.59574, 88.39937)
+sector_5=(22.57622, 88.43505)
+phoolbagan_metro=(22.572191, 88.390406)
+wat_ganj=(22.542083, 88.326495)}
+
+e. Hourly - Cancellation/ Completion stats for each zone.
+
+------------more EDA.ipynb------------------
+
+a. Study for 7th May. - Average user fare, use pattern, Revenue
+
+
+--------------prophet model EDA.ipynb--------------
+a. Wait Time and distance covered - zone wise and user fare
+b. far away pickup location plot 
+c. analysis for 3,5,10,15 minute windows
+d. pickup and drop pattern for active users ( Not active but company employees in Howrah)
+
+
+--------prophet.ipynb-----------
+
+a. Zone wise segregation and demand plotting for zones using prophet model
+b. also tried ARIIMA :p
+c. component based plotting
+
+
+
+--------------Some more EDA.ipynb----------------
+
+a. Deep dive into Active users, plots for pickup and drop for all the active users to understand the user pattern
+b. wordcloud for surnames
+c. waittime, distance covered and user fare analysis for zones
+d. percentage of riders from zones with under 8 and 10 km rides
+e. single time users and active users plot and distance
+
+
+
+-----------LSTM.ipynb------------
+
+a. using Zomato's weather union rain accumulation, rain intensity and temperature - LSTM model to fine tune hourly demand ( overall)- zone wise implementation pending.
