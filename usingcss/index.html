@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Maintenance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Vehicle Maintenance Management</h1>
+
+        <div id="addForm">
+            <h2>Add New Vehicle</h2>
+            <input type="text" id="vehicleNumber" placeholder="Vehicle Number">
+            <input type="number" id="closingKM" placeholder="Closing KM">
+            <button onclick="addVehicle()">Add Vehicle</button>
+            <p id="addResult"></p>
+        </div>
+
+        <div id="deleteForm">
+            <h2>Delete Vehicle</h2>
+            <input type="text" id="deleteVehicleNumber" placeholder="Vehicle Number to Delete">
+            <button onclick="deleteVehicle()">Delete Vehicle</button>
+            <p id="deleteResult"></p>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
